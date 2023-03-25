@@ -3,7 +3,7 @@ import "./styles/markdown.scss";
 import "./styles/prism.scss";
 
 export const metadata = {
-  title: "ChatGPT Next Web",
+  title: "ChatGPT",
   description: "Your personal ChatGPT Chat Bot."
 };
 
